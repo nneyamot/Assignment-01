@@ -1,0 +1,42 @@
+*{
+    marging:0px;
+    padding:0px;
+}
+
+/* nav section css */
+nav{
+    background-color: red;
+    display:flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    font-size: 16px;
+    width: 1350px;
+    height: 92px;
+}
+
+nav img{
+    width: 139px;
+    height: 60px;
+}
+nav ul {
+    list-style: none;
+    display:flex;
+    gap :2em;
+    font-weight: 600px;
+    font-size: 16px;
+    width: 365px;
+    height: 24px;
+}
+
+.nav-btn{
+    background-color: rgb(73, 141, 73);
+    color:white;
+    width:164px;
+    height: 44px;
+    border:none;
+    border-radius: 5px;
+    font-weight: 600px;
+    font-size: 16px;
+    padding:12px 16px;
+}
