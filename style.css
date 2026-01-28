@@ -11,7 +11,7 @@ nav{
     align-items: center;
     justify-content: space-evenly;
     font-size: 16px;
-    width: 1600px;
+    width: 1567px;
     height: 92px;
 }
 
@@ -193,4 +193,49 @@ nav ul {
     font-size: 18px;
     line-height: 20px;
     color:#627382;
+}
+ 
+/* section-2 */
+.sec-2{
+    width: 1567px;
+    height: 840px;
+    /* background-color: bisque; */
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap:60px;
+
+}
+.div-img{
+    width: 600px;
+    height: 600px;
+    border-radius: 10px ;
+}
+.article-items{
+    margin:0px;
+    padding:0px;
+    text-align: center;
+}
+.ar-div-1 h4{
+    color:#30B868;
+    margin-bottom: 16px;
+    
+}
+.ar-div-1 h1{
+    font-size: 48px;
+    font-weight: bold;
+    color:#001931;
+    margin-bottom: 16px;
+    
+}
+.ar-div-1 p{
+   font-size: 16px;
+   color:#627382;
+   margin-bottom: 40px;
+}
+.ar-div-2{
+    font-size: 16px;
+    font-weight: 500px;
+    color:#001931;
+    line-height: 20px;
 }
