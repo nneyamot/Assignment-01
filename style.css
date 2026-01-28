@@ -122,3 +122,75 @@ nav ul {
   color:white;
 
 }
+.section-1{
+    width: 1567px;
+    height: 468px; 
+    
+}
+.sec-heading{
+    width: 1360px;
+    height: 152px;
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    margin: 8px; 
+    
+}
+
+.sec-heading h1{
+    font-size: 48px;
+    font-weight: bold;
+    align-items: center;
+    color:#001931;
+}
+.sec-heading p{
+    font-size: 16px;
+    font-weight: 400px;
+    align-items: center;
+    color:#627382;
+   
+}
+/* cards */
+
+.card-items{
+    display: flex;
+    gap:24px;
+}
+.card{
+    width: 322px;
+    height: 300px;
+    border:#FFFFFF solid 2px;
+    justify-content: center;
+    text-align: center;
+    padding: 24px;
+    border-radius: 8px;
+    box-shadow: 0px 2px 6px 0px rgba(0, 0, 0, 0.3);
+
+ 
+}
+
+.icon-img{
+   
+   width: 60px;
+   height: 60px; 
+   margin:70px 131px 0px;
+   background-color: #F95555;
+   display: flex;
+   align-items: center;
+   justify-content: center;
+   border-radius: 50%;
+   text-align: center;
+
+}
+.card h3{
+   
+    font-size: 24px;
+    font-weight: 600px;
+    color:#001931;
+}
+.card p{
+   
+    font-size: 18px;
+    line-height: 20px;
+    color:#627382;
+}
