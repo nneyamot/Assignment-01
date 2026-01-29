@@ -5,7 +5,7 @@
 
 /* nav section css */
 nav{
-    /* background-color: red; */
+    
     display:flex;
     text-align: center;
     align-items: center;
@@ -76,9 +76,9 @@ nav ul {
     font-weight: 600px;
 
 }
+
 .hero-motive{
-    /* background-color: aqua; */
-    /* padding:16px,295px; */
+ 
     color:white;
     font-size: 72px;
     font-weight: bold;
@@ -254,6 +254,8 @@ nav ul {
     color:#001931;
     line-height: 20px;
 }
+/* section-3 */
+
 .section-3{
     display:flex;
     justify-content: center;
@@ -304,6 +306,7 @@ nav ul {
     color:#627382;
 
 }
+/* footer */
 footer{
     background-color: #001931;
     width: 1567px;
